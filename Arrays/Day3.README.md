@@ -5,7 +5,7 @@ Delve into the realm of coding enchantment with the quest to find the subarray w
 ## 🚀 Problematic Puzzles
 
 **Problem Title:** Max Subarray Sum 📊
-**Platform:** LeetCode 👾 [?](https://leetcode.com/problems/maximum-subarray/submissions/)
+**Platform:** LeetCode [?](https://leetcode.com/problems/maximum-subarray/submissions/)  👾 
 **Difficulty:** Medium 🌟
 **Language:** Java ☕
 

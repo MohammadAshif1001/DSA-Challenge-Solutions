@@ -4,10 +4,10 @@ Delve into the realm of coding enchantment with the quest to find the subarray w
 
 ## 🚀 Problematic Puzzles
 
-**Problem Title:** Max Subarray Sum 📊
-**Platform:** LeetCode [?](https://leetcode.com/problems/maximum-subarray/submissions/)  👾 
-**Difficulty:** Medium 🌟
-**Language:** Java ☕
+**Problem Title:** Max Subarray Sum 📊    
+**Platform:** LeetCode 👾 [?](https://leetcode.com/problems/maximum-subarray/submissions/)      
+**Difficulty:** Medium 🌟    
+**Language:** Java ☕    
 
 ---
 
@@ -15,12 +15,12 @@ Delve into the realm of coding enchantment with the quest to find the subarray w
 
 Embark on a coding adventure as you seek the greatest power within subarrays! Given an array `nums` filled with integers, your quest is to find the subarray with the largest sum and return its sum. Unveil the hidden potential of subarrays as you conjure the ultimate sum!
 
-**Example Spell 🪄:**
+**Example Spell 🪄:**    
 _Input:_
-nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]    
 _Output:_
-6
-Explanation: The subarray [4,-1,2,1] has the largest sum 6.
+6    
+Explanation: The subarray [4,-1,2,1] has the largest sum 6.    
 
 ---
 

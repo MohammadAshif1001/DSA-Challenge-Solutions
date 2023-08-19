@@ -43,13 +43,7 @@ Behold, the ingenious algorithmic approach for the `findMinDiff` function! 🧙�
 
 ---
 
-## 🪄 The Spellbinding Experience
-
-Join this enchanting quest and witness the power of algorithms as they balance the sweetness of chocolates among eager students. Immerse yourself in the world of problem-solving, where logic and magic intertwine to create solutions that dazzle and amaze. May your coding journey be as delightful as biting into a perfectly crafted chocolate! 🌟🍫🔮
-
-Prepare your coding wand and unravel the hidden truths within arrays, as you embrace the art of problem-solving, guided by the rhythm of logic and the allure of mathematics.
-
-🌟 **Spell of Code Invocation 🪄:**
+## 🌟 **Spell of Code Invocation 🪄:**
 
 ```java
 // { Driver Code Starts

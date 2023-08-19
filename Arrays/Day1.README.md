@@ -5,7 +5,7 @@ Unveil the secrets of array manipulation with a touch of magic! 🪄✨ Dive int
 ## 🚀 Problematic Puzzles
 
 **Problem Title:** Max Min 📊
-**Platform:** GeeksforGeeks 👾
+**Platform:** GeeksforGeeks 👾 [?](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/)
 **Difficulty:** Easy peasy 🍭
 **Language:** Java ☕
 

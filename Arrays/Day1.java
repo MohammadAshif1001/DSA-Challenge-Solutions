@@ -1,36 +1,4 @@
-Problem Title: [Max Min]
-Platform: [GFG]
-Difficulty: [Easy]
-Language: [Java]
-
----
-
-## Problem Description
-
-[Given an array A of size N of integers. Your task is to find the sum of minimum and maximum element in the array.]
-
-[Example 1:
-Input:
-N = 5
-A[] = {-2, 1, -4, 5, 3}
-Output: 1
-Explanation: min = -4, max =  5. Sum = -4 + 5 = 1]
-
-## Approach
-
-[The approach uses two variables, min and max, to keep track of the minimum and maximum elements encountered in the array. By updating these variables during the loop, we ensure that we find the minimum and maximum elements efficiently.
-
-After iterating through the entire array, we return the sum of min and max, which gives us the desired result.
-
-Time Complexity:
-The algorithm iterates through the array once, performing constant-time operations in each iteration. Therefore, the time complexity of this approach is O(N), where N is the number of elements in the array.
-
-Space Complexity:
-The algorithm uses a constant amount of extra space for the min and max variables. Hence, the space complexity is O(1).]
-
-## Code
-
-```[Java]
+```Java
 //{ Driver Code Starts
 import java.io.*;
 import java.util.*;

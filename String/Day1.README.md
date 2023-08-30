@@ -1,6 +1,6 @@
 # Welcome to My Anagram Adventures! 🧩
 
-Uncover the magic of word rearrangements through code! 🪄 Dive into the world of algorithms and unravel the secrets of anagrams with me. Let's embark on a journey where words transform with elegance and precision! 🔠
+Uncover the magic of word rearrangements through code! Dive into the world of algorithms and unravel the secrets of anagrams with me. Let's embark on a journey where words transform with elegance and precision! 🔠
 
 ## 🚀 Problem at a Glance
 
